@@ -1,0 +1,76 @@
+body {
+  box-sizing: border-box;
+  position: relative;
+  width: 1440px;
+  height: 3451px;
+
+  background: #ffffff;
+}
+
+.navbar {
+  position: absolute;
+  width: 1440px;
+  height: 90px;
+  left: 0px;
+  top: 0px;
+
+  background: #f0f0f0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.imgLogo {
+  position: absolute;
+}
+
+.sidebar {
+  position: absolute;
+  width: 96px;
+  height: 827px;
+  left: 0px;
+  top: 205px;
+  background: red;
+}
+
+.topnav {
+  position: absolute;
+  right: 100;
+  background-color: #333;
+  overflow: hidden;
+  border-radius: 7%;
+  width: 100%;
+}
+
+.top {
+  position: absolute;
+  width: 1136px;
+  height: 51px;
+  left: 177px;
+  top: 222px;
+
+  background: #0029ff;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.bottom {
+  position: absolute;
+  width: 1136px;
+  height: 2849px;
+  left: 177px;
+  top: 273px;
+
+  background: #ffffff;
+  border: 1px solid #f0f0f0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.taskHeadingOne {
+  position: absolute;
+  width: 461px;
+  height: 320px;
+  left: 243px;
+  top: 403px;
+}
+
+.task0ne {
+  text-align: center;
+  justify-content: center;
+}
